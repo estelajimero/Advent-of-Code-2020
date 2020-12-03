@@ -1,5 +1,5 @@
 let fs = require('fs');
-let text = fs.readFileSync('./day2.txt').toString('utf-8');
+let text = fs.readFileSync('./Day 2/day2.txt').toString('utf-8');
 
 let passwordInput = text.split('\r\n');
 

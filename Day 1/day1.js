@@ -1,6 +1,6 @@
 // DAY 1 ADVENT CODE
 let fs = require('fs');
-let text = fs.readFileSync('./Day 1.txt').toString('utf-8');
+let text = fs.readFileSync('./Day 1/day 1.txt').toString('utf-8');
 
 let expenseReport = text.split('\r\n');
 
